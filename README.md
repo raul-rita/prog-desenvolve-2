@@ -17,3 +17,21 @@
 * Escreva suas primeiras expressões regulares e veja como utilizá-las para resolver problemas
 * Crie seus próprios comandos para serem executados no terminal
 * Use as bibliotecas mais recentes do Node.js para fazer requisições HTTP e manejar respostas
+
+<h2>Semana 17</h2>
+
+<h3>ORM com NodeJS: API com Sequelize e MySQL</h3>
+
+* Crie uma API com NodeJS e algumas de suas principais bibliotecas
+* Aprenda na prática como funciona um ORM
+* Use o Sequelize para fazer operações em bancos sem usar SQL
+* Desenvolva uma aplicação organizada no modelo MVC
+* Aprimore seus conhecimentos em JavaScript para back-end
+
+<h3>Node.js: API Rest com Express e MongoDB</h3>
+
+* Aprenda a criar uma API do zero, seguindo o estilo arquitetural REST
+* Entenda como as requisições HTTP funcionam
+* Conheça o framework Express, utilizado para desenvolver aplicações robustas e escaláveis
+* Conecte sua API com um banco de dados MongoDB
+* Crie buscas por campos específicos na API
