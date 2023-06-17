@@ -70,3 +70,15 @@
 * Entenda o papel das Enumerations
 * Crie um mini framework de atualização de view inspirado no JSX
 * Configure ainda mais seu compilador TS e tire máximo proveito do seu código
+
+<h2>Semana 20</h2>
+
+<h3>Typescript parte 3: mais técnicas e boas práticas</h3>
+
+* Conheça as vantagens do uso de Decorators
+* Crie diferentes tipos de decorators e deixe seu código ainda mais elegante
+* Compreenda os benefícios do uso de interfaces
+* Aprenda a organizar e a adicionar tipo em seu código ao consumir uma API REST
+* Entenda o papel de sourceMaps e aprenda como debugar a sua aplicação no navegador
+* Crie soluções combinando tudo o que aprendeu nos módulos anteriores
+* Tire benefício do Polimorfismo garantindo um código protegido e dinâmico
