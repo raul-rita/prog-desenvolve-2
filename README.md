@@ -101,3 +101,23 @@
 * Utilize o pacote classnames para poder utilizar o CSS Modules sem precisar concatenar um monte de estilos CSS e lidar com estilos condicionais
 * Aprenda como utilizar o SVGR, um pacote que vem no Create React App para importar svgs como componentes React
 * Entenda como o React entende os imports estáticos tanto via arquivos .js quanto em arquivos de estilos como .scss ou .css. Aprenda como importar arquivos estáticos como variáveis via js ou utilizando a pasta public para imports dinâmicos de arquivos estáticos
+
+<h2>Semana 22</h2>
+
+<h3>React: conhecendo a biblioteca React Router</h3>
+
+* Saiba como refatorar um projeto utilizando ESLint
+* Desenvolva um código escalável, priorizando um código limpo e fácil de entender
+* Utilize o pacote react-router-dom de forma simples e prática, aprendendo todos os conceitos principais da biblioteca
+* Descubra como a biblioteca se integra com o navegador e utiliza de coisas nativas para mudar as rotas e compartilhar estados
+* Crie telas navegando entre elas de diversas formas diferentes e reaproveite componentes eles elas
+* Entenda sobre nested routes e como criá-las para reaproveitar código e resolver problemas
+
+<h3>React: integrando seu projeto React com APIs</h3>
+
+* Desenvolva a comunicação entre uma aplicação React e uma API REST
+* Implemente hooks para buscar dados em uma API
+* Utilize o axios para realizar requisições HTTP
+* Avalie as informações da resposta da API
+* Integre o frontend ao backend
+* Descreva o funcionamento de uma API a partir do Swagger
