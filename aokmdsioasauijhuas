@@ -1,0 +1,257 @@
+[33mcommit 58e4c4baeac992c4edcaa1f3dac5bad7482025c5[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: Raul Rita <raul.vinicius@live.com>
+Date:   Sun Jul 23 19:25:33 2023 -0300
+
+    concluindo testes react
+
+[33mcommit 522cd8e4b5cafa6a1859c1f94c836add0b94175e[m
+Author: Raul Rita <raul.vinicius@live.com>
+Date:   Sun Jul 23 19:25:00 2023 -0300
+
+    testes no frontend concluido
+
+[33mcommit 442f1082d095a452c603141c0f4a81b76f0662e7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Mon Jul 3 15:00:51 2023 -0300
+
+    Update README.md
+
+[33mcommit 3e164d55260ff196a9f19e4c1bd055acfc70fb48[m
+Merge: 8a786b9 0a22acd
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Mon Jul 3 14:53:44 2023 -0300
+
+    Merge pull request #12 from raul-rita/develop
+    
+    projeto concluido, consumindo apis e subindo servidor com docker
+
+[33mcommit 0a22acd1fd4fc69a2a7407efc9eb55e993bd06bd[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: Raul Rita <raul.vinicius@live.com>
+Date:   Mon Jul 3 14:52:28 2023 -0300
+
+    projeto concluido, consumindo apis e subindo servidor com docker
+
+[33mcommit 8a786b94727179ff476cd5628d5225762548d812[m
+Merge: 186f70c 1cba2be
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Tue Jun 27 16:24:09 2023 -0300
+
+    Merge pull request #11 from raul-rita/develop
+    
+    curso 3 de react ok, aluroni completo
+
+[33mcommit 1cba2be080af93b5f26f5e3315950d08ca4d2446[m
+Author: Raul Rita <raul.vinicius@live.com>
+Date:   Tue Jun 27 16:23:45 2023 -0300
+
+    curso 3 de react ok, aluroni completo
+
+[33mcommit 186f70c943e33276c30b4e7edad899e2261a66c7[m
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Fri Jun 23 16:10:42 2023 -0300
+
+    Update README.md
+
+[33mcommit 73df3d8bb49db04a707509c0e38119552d08f775[m
+Merge: 81f9d77 bde8f32
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Fri Jun 23 16:05:42 2023 -0300
+
+    Merge pull request #10 from raul-rita/develop
+    
+    curso 2 de react com typescript ok
+
+[33mcommit bde8f328e80f3663dadffad018a744c4ed6dc2dd[m
+Author: Raul Rita <raul.vinicius@live.com>
+Date:   Fri Jun 23 16:03:40 2023 -0300
+
+    curso 2 de react com typescript ok
+
+[33mcommit 81f9d7785dd931692fb57343aae91f813b868632[m
+Merge: 3d8cb99 e989da9
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Wed Jun 21 10:30:19 2023 -0300
+
+    Merge pull request #9 from raul-rita/develop
+    
+    curso 1 de react com typescript ok
+
+[33mcommit e989da90a73beed6ba2e48567f457e0e002868f5[m
+Author: Raul Rita <raul.vinicius@live.com>
+Date:   Wed Jun 21 10:29:23 2023 -0300
+
+    curso 1 de react com typescript ok
+
+[33mcommit 3d8cb996437663e481afe2a290016ef9c38b18fc[m
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Sat Jun 17 19:17:46 2023 -0300
+
+    Update README.md
+
+[33mcommit 246e2dd608279909f0f8f3dee385eedfc59afea4[m
+Merge: 5b61472 ef47f35
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Sat Jun 17 11:51:04 2023 -0300
+
+    Merge pull request #8 from raul-rita/develop
+    
+    curso de typescript 3 concluido
+
+[33mcommit ef47f357e36ad14655dd817bfefd9a7c7bf5a094[m
+Author: Raul Rita <raul.vinicius@live.com>
+Date:   Sat Jun 17 11:49:22 2023 -0300
+
+    curso de typescript 3 concluido
+
+[33mcommit 5b61472dc6bec83a69d9ac2bfc2f35393cbb3b90[m
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Wed Jun 14 15:28:31 2023 -0300
+
+    Update README.md
+
+[33mcommit 95c2140b47eaab946356b4db338d0d44d586e72f[m
+Merge: ea02229 e1a5fc4
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Wed Jun 14 15:25:20 2023 -0300
+
+    Merge pull request #7 from raul-rita/develop
+    
+    curso de typescript 2 ok
+
+[33mcommit e1a5fc4863a8bb819d011e392476d9954fd1eee8[m
+Author: Raul Rita <raul.vinicius@live.com>
+Date:   Wed Jun 14 15:23:21 2023 -0300
+
+    curso de typescript 2 ok
+
+[33mcommit ea0222969443c0f3b4498d9cedd9b65538c3e3d6[m
+Merge: 2f9f002 cc1f30d
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Tue Jun 13 19:05:49 2023 -0300
+
+    Merge pull request #6 from raul-rita/develop
+    
+    curso 1 de typescript ok
+
+[33mcommit cc1f30dd1d3d9bf1707e35e97c56f2ce90f4a6c3[m
+Author: Raul Rita <raul.vinicius@live.com>
+Date:   Tue Jun 13 14:45:25 2023 -0300
+
+    curso 1 de typescript ok
+
+[33mcommit 2f9f002fe95ed06cd10503f7b3d9dba4bb9533d4[m
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Wed Jun 7 09:24:33 2023 -0300
+
+    Update README.md
+
+[33mcommit 82559d9823df2d0e8828bcdf1f202a1879d1bc02[m
+Merge: 9953f7b f4ede16
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Wed Jun 7 09:22:03 2023 -0300
+
+    Merge pull request #5 from raul-rita/develop
+    
+    jwt ok
+
+[33mcommit f4ede1698f77ed6b85f84de72759db1a3bed98a8[m
+Author: Raul Rita <raul.vinicius@live.com>
+Date:   Wed Jun 7 09:21:29 2023 -0300
+
+    jwt ok
+
+[33mcommit 9953f7b1179cd6bad360910ab7acd4e98a1b5bd2[m
+Merge: a52f612 bb997f0
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Fri Jun 2 20:50:56 2023 -0300
+
+    Merge pull request #4 from raul-rita/develop
+    
+    sequelize avancado ok
+
+[33mcommit bb997f021feaa584a29e5b73732159e9f18c8f35[m
+Author: Raul Rita <raul.vinicius@live.com>
+Date:   Fri Jun 2 20:49:43 2023 -0300
+
+    sequelize avancado ok
+
+[33mcommit a52f6122722fce2125df93366a8fb13509790618[m
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Thu Jun 1 11:39:42 2023 -0300
+
+    Update README.md
+
+[33mcommit 0c18669c6f54014c6279f67888ddac69abdd7f16[m
+Merge: 9f69e7f 8e070d1
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Thu Jun 1 11:37:22 2023 -0300
+
+    Merge pull request #3 from raul-rita/develop
+    
+    Api Node, Express e MongoDB
+
+[33mcommit 8e070d1388cd4e206704e381d4f465c5b816880c[m
+Author: Raul Rita <raul.vinicius@live.com>
+Date:   Thu Jun 1 11:31:02 2023 -0300
+
+    api com express e mongodb concluida
+
+[33mcommit 8d41d3f90e663b3f6bd036e5c257b5da1a5644df[m
+Author: Raul Rita <raul.vinicius@live.com>
+Date:   Tue May 30 13:34:05 2023 -0300
+
+    projeto iniciado, criacao das primeiras rotas
+
+[33mcommit 9f69e7f19689ee57cb0c852efc1af7ab7d14f2ab[m
+Merge: 0f679f5 473dc18
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Mon May 29 13:48:37 2023 -0300
+
+    Merge pull request #2 from raul-rita/develop
+    
+    projeto crud com orm sequelize e mysql finalizado
+
+[33mcommit 473dc180fc27eaf81d118c67c984e8946625da37[m
+Author: Raul Rita <raul.vinicius@live.com>
+Date:   Mon May 29 13:39:01 2023 -0300
+
+    projeto crud com orm sequelize e mysql finalizado
+
+[33mcommit 0f679f5e2eef4336e29e9a01f539a3d62209b0cf[m
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Sat May 27 16:12:20 2023 -0300
+
+    Update README.md
+
+[33mcommit 212e89b84b94742ba20329a7da64541b0ae3af39[m
+Merge: 452797f cb558b1
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Sat May 27 16:10:22 2023 -0300
+
+    Merge pull request #1 from raul-rita/develop
+    
+    semana 16: ok
+
+[33mcommit cb558b141c1bf0a11fa9b35ae0f920d0b704baf8[m
+Author: Raul Rita <raul.vinicius@live.com>
+Date:   Sat May 27 16:08:21 2023 -0300
+
+    curso criando uma lib
+
+[33mcommit 2f7ff3f9ce2b18e4aabcf8d4b8f6230b0a46a72c[m
+Author: Raul Rita <raul.vinicius@live.com>
+Date:   Tue May 23 10:46:03 2023 -0300
+
+    curso mongodb finalizado
+
+[33mcommit 452797f352db322cae4e02fd1426f5a91abc3786[m
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Mon May 22 15:15:59 2023 -0300
+
+    Update README.md
+
+[33mcommit e3b99f2b94cbbf135d050222c2bd89b1bc5c14b5[m
+Author: Raul Rita <93088559+raul-rita@users.noreply.github.com>
+Date:   Mon May 22 15:13:13 2023 -0300
+
+    Initial commit
